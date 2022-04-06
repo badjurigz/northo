@@ -22,12 +22,12 @@ jobs:
            ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 
         - name: Clean install dependencies
-          run: yarn install
+          run: npm install
           env:
             ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 
         - name: Build app
-          run: yarn generate
+          run: npm run predeploy
           env:
             ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 
