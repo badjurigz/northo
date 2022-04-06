@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/northo/static/css/main.073c9b0a.css",
-    "main.js": "/northo/static/js/main.7cdf110e.js",
+    "main.js": "/northo/static/js/main.58dacda5.js",
     "static/js/787.87760723.chunk.js": "/northo/static/js/787.87760723.chunk.js",
     "static/media/logo.svg": "/northo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/northo/index.html",
     "main.073c9b0a.css.map": "/northo/static/css/main.073c9b0a.css.map",
-    "main.7cdf110e.js.map": "/northo/static/js/main.7cdf110e.js.map",
+    "main.58dacda5.js.map": "/northo/static/js/main.58dacda5.js.map",
     "787.87760723.chunk.js.map": "/northo/static/js/787.87760723.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7cdf110e.js"
+    "static/js/main.58dacda5.js"
   ]
 }
